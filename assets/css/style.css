@@ -1,0 +1,74 @@
+/*
+Estilos da página index.html
+*/
+
+#grad1 {
+    height: 200px;
+    background-color: black; /* For browsers that do not support gradients */
+    background-image: linear-gradient(#e21ddc,#26B5F3,#030c0b);
+  }      
+
+.cor_1{
+    color: darkolivegreen;
+}
+
+.center{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center ;
+    align-items: center;
+}
+#menu li {
+    display: inline;
+
+   
+}
+#menu li a {
+    text-decoration: none;
+    color: darkolivegreen;
+    font-size: 20px;
+    padding: 30px;
+  
+}
+#menu li a:hover {
+    color: grey;
+}
+.p-30{
+    padding: 30px;
+}
+ .br-50{
+     border-radius: 50%;
+ }
+  .sz-social{
+      width: 50px;
+      height: 50px;
+  }
+
+
+
+
+
+
+
+
+
+
+/*
+Estilos da página contato.html
+*/
+
+
+
+
+
+
+
+
+
+/*
+Estilos da página videos.html
+*/
+  
